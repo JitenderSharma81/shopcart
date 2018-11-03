@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SC Admin - Dashboard</title>
+    <title>Admin - Dashboard</title>
 
     <!-- Bootstrap core CSS-->
     <link href="<?php echo base_url(); ?>vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
